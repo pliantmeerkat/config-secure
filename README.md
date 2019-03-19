@@ -1,2 +1,2 @@
 # config-secure
-An artifact used to secture your configurables
+An artifact used to secure your configurables
